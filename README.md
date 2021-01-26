@@ -6,11 +6,11 @@
 
   [동영상]<https://youtu.be/o9aVjBHEEbU>
   
-  [데이터소스파일](./dl/all_data.xlsx)
+  [데이터소스파일](./lec1/all_data.xlsx)
   
-  [강의자료](./dl/lecture1.pdf)
+  [강의자료](./lec1/lecture1.pdf)
   
-  [예제논문파일](./dl/paper1.pdf) 
+  [예제논문파일](./lec1/paper1.pdf) 
 
 ## 예제 파일은 아래에서도 다운로드 가능합니다. (2021/01/20)
 
