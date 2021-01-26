@@ -11,6 +11,10 @@
     [강의자료](https://github.com/deepjoin/dl/lec1/lecture1.pdf)
   
     [예제논문파일](https://github.com/deepjoin/dl/lec1/paper1.pdf) 
+    
+    
+    
+    
 
 ## 예제 파일은 아래에서도 다운로드 가능합니다. (2021/01/20)
 
