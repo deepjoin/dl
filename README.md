@@ -8,7 +8,7 @@
   
     [데이터소스파일](/lec1/all_data.xlsx)
   
-    [강의자료](/lec1/slide1.xlsx)
+    [강의자료](/lec1/slide1.pdf)
   
     [예제논문파일](/lec1/paper1.pdf) 
     
