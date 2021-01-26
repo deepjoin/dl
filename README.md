@@ -8,7 +8,7 @@
   
     [데이터소스파일](https://github.com/deepjoin/lec/lec1/all_data.xlsx)
   
-    [강의자료](https://github.com/deepjoin/lec/lec1/lecture1.pdf)
+    [강의자료](https://github.com/deepjoin/lec/lec1/slide1.pdf)
   
     [예제논문파일](https://github.com/deepjoin/lec/lec1/paper1.pdf) 
     
